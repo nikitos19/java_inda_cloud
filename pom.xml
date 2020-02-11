@@ -10,6 +10,7 @@
     <modules>
         <module>catalog-service</module>
         <module>discovery-service</module>
+        <module>order-service</module>
     </modules>
 
     <name>po</name>
